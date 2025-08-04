@@ -1,0 +1,5 @@
+src/
+├── index.html
+├── main.js
+├── style.css
+└── game/
