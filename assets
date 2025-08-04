@@ -1,0 +1,32 @@
+assets/
+├── images/
+│   ├── logo.png
+│   ├── background-menu.jpg
+│   ├── carros/
+│   │   ├── f1_car_vermelho.png
+│   │   ├── truck_azul.png
+│   ├── personagens/
+│   │   ├── marcelinho_carioca.png
+│   │   ├── senna_capacete.png
+│   ├── torcidas/
+│   │   ├── gavioes.png
+│   │   ├── capivarios.png
+│   ├── pistas/
+│   │   ├── interlagos.png
+│   │   ├── praia_do_motor.png
+│   ├── icones/
+│       ├── volante.png
+│       ├── camera_troca.png
+├── audio/
+│   ├── menu_theme.mp3
+│   ├── corrida_loop.mp3
+│   ├── efeitos/
+│       ├── motor_f1.wav
+│       ├── pneu_derrapando.wav
+│       ├── torcida_gritando.mp3
+│       ├── batida_forte.wav
+│       ├── mensagem_radio.mp3
+├── fonts/
+│   ├── arcade.ttf
+│   ├── grafite_gang.ttf
+│   └── ps2_retro.ttf
