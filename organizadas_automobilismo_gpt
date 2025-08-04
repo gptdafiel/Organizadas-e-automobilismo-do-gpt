@@ -1,0 +1,22 @@
+<!-- organizadas_automobilismo_gpt/index.html -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <title>Organizadas e Automobilismo do GPT</title>
+  <link rel="stylesheet" href="style/main.css" />
+</head>
+<body>
+  <div id="game-root"></div>
+  <script src="scripts/main.js"></script>
+</body>
+</html>/* organizadas_automobilismo_gpt/style/main.css */
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #000;
+  color: #fff;
+}
+#game-root {
+  padding: 20px;
+}
